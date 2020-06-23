@@ -1,0 +1,106 @@
+############ MOV
+[36m ############### FROM ############### [37m
+############### String records ###############
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+
+[36m ################ TO ################ [37m
+############### String records ###############
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+[36m ############### FROM ############### [37m
+############### String records ###############
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+
+[36m ################ TO ################ [37m
+############### String records ###############
+[34m Record: [37m AX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+############ XCHG
+[36m ############### FROM ############### [37m
+############### String records ###############
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+
+[36m ################ TO ################ [37m
+############### String records ###############
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+[34m Record: [37m AX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+[36m ############### FROM ############### [37m
+############### String records ###############
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+
+[36m ################ TO ################ [37m
+############### String records ###############
+[34m Record: [37m DX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+############ STI
+[36m ############### FROM ############### [37m
+############### String records ###############
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+
+[36m ################ TO ################ [37m
+############### String records ###############
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 1
+############ CLI
+[36m ############### FROM ############### [37m
+############### String records ###############
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0
+
+[36m ################ TO ################ [37m
+############### String records ###############
+[34m Record: [37m AX [34m Value string: [37m ax_value [34m Value binary: [37m [97 120 95 118 97 108 117 101]
+[34m Record: [37m BX [34m Value string: [37m bx_value [34m Value binary: [37m [98 120 95 118 97 108 117 101]
+[34m Record: [37m CX [34m Value string: [37m cx_value [34m Value binary: [37m [99 120 95 118 97 108 117 101]
+[34m Record: [37m DX [34m Value string: [37m dx_value [34m Value binary: [37m [100 120 95 118 97 108 117 101]
+############### Bool records ###############
+[34m Record: [37m IF [34m Value binary: [37m 0

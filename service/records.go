@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func Print(stringRecords map[string][]byte, boolRecords map[string]byte) {
+func Print(stringRecords map[string]uint16, boolRecords map[string]byte) {
 	fmt.Println("############### String records ###############")
 	for index, element := range stringRecords {
 		fmt.Println(
@@ -14,11 +14,7 @@ func Print(stringRecords map[string][]byte, boolRecords map[string]byte) {
 			util.NORMAL_TEXT,
 			index,
 			util.BLUE,
-			"Value string:",
-			util.NORMAL_TEXT,
-			string(element),
-			util.BLUE,
-			"Value binary:",
+			"Value uint16:",
 			util.NORMAL_TEXT,
 			element)
 	}

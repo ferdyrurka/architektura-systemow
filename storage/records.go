@@ -1,17 +1,17 @@
 package storage
 
-var stringRecords = map[string][]byte{
-	"AX": []byte("ax_value"),
-	"BX": []byte("bx_value"),
-	"CX": []byte("cx_value"),
-	"DX": []byte("dx_value"),
+var stringRecords = map[string]uint16{
+	"AX": uint16(100),
+	"BX": uint16(500),
+	"CX": uint16(2000),
+	"DX": uint16(30000),
 }
 
 var boolRecords = map[string]byte{
 	"IF": byte(0),
 }
 
-func FindAll() (map[string][]byte, map[string]byte) {
+func FindAll() (map[string]uint16, map[string]byte) {
 	return stringRecords, boolRecords
 }
 
